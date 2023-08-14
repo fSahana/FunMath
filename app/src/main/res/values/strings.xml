@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FunMath</string>
+    <string name="appname">Fun Math</string>
+    <string name="btnlvl0">Level 0</string>
+    <string name="btnlvl1">Level 1</string>
+    <string name="btnlvl2">Level 2</string>
+    <string name="sq">Question: x/10</string>
+    <string name="lscore">Score : 0</string>
+    <string name="lvl1time">00:20</string>
+    <string name="lvl2time">00:10</string>
+    <string name="lvlquestion">Question</string>
+    <string name="btnnext">Check</string>
+    <string name="fscore">Your score:0</string>
+    <string name="btnrestart">Play Again</string>
+</resources>
